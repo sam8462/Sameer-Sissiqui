@@ -1,4 +1,4 @@
 # Sameer-Sissiqui
 This is my first respository
 <br>
-Author - Sameer (Apna college)
+Author - Sameer Shaikh (Apna college)
